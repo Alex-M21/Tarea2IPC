@@ -1,0 +1,19 @@
+<?xml version = "1.0" standalone = "no"?>
+<people>
+    <husband employed = "Yes">
+        <name>Mark</name>
+        <age>45</age>
+         <wife>
+             <wname>Janet</wname>
+             <age>&marklong</age>
+         </wife>
+    </husband>
+    <husband employed = "NO">
+        <name>Matt</name>
+        <age>42</age>
+         <wife>
+             <wname>Annie</wname>
+             <age>&marklong:</age>
+         </wife>
+    </husband>
+</people>

@@ -1,0 +1,24 @@
+<root>
+    <doc>
+       <modo1 name = "nodo">Texto 0 </nodo1><nodo2 atributo = "manzana">texto 0</nodo2>
+    </doc>
+    <doc>
+       <nodo1 name ="nodo">Texto 1</nodo1><nodo2 atributo = "manzana">texto 1</nodo2>
+    </doc>
+       <nodo1 name = "nodo">Texto 2 </nodo1><nodo2 atributo = "manzana">texto 2 </nodo2>
+    </doc>
+    <doc>
+       <nodo1 name = "nodo">Texto 3 </nodo1><nodo2 atributo ="manzana">Texto 3</nodo2>
+    </doc>
+     <doc>
+       <modo1 name = "nodo">Texto 4 </nodo1><nodo2 atributo = "manzana">texto 4</nodo2>
+    </doc>
+    <doc>
+       <nodo1 name ="nodo">Texto 5</nodo1><nodo2 atributo = "manzana">texto 5</nodo2>
+    </doc>
+       <nodo1 name = "nodo">Texto 6 </nodo1><nodo2 atributo = "manzana">texto 6</nodo2>
+    </doc>
+    <doc>
+       <nodo1 name = "nodo">Texto 7 </nodo1><nodo2 atributo ="manzana">Texto 7</nodo2>
+    </doc>
+    
